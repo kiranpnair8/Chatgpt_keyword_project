@@ -1,0 +1,4 @@
+node_modules/
+Audio/
+descriptions.txt
+*.env
